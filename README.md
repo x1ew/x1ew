@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Machine Learning.
 - 📫 How to reach me: [Gmail](mailto:xahraahmadi99@gmail.com)
 -->
+👯 A master's student aiming to become an AI engineer :)
