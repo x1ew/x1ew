@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Gmail](mailto:xahraahmadi99@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on Deep Learning projects.
 - 🌱 I’m currently learning about Machine Learning.
 - 📫 How to reach me: [Gmail](mailto:xahraahmadi99@gmail.com)
+-->
